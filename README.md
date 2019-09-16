@@ -2,7 +2,7 @@
 
 A Game Project in Verilog with the DE1-SOC FPGA chip. 
 
-This was made in collaboration with Chin Hou Ren (Github: @chinhouren) for Computational Organization at the University of Toronto. Note that this was written in verilog, a hardware descriptive language designed for FPGAs. This game, essentially, is equivalent of assembling logic gates with a virtual logic board from scratch. 
+This was made in collaboration with Chin Hou Ren (Github: @chinhouren) for Computational Organization at the University of Toronto. Note that this was written in verilog, a hardware descriptive language designed for FPGAs. 
 
 Grade received for this project: 100%.
 
